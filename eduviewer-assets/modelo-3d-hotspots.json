@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-09-30T19:59:33.115Z",
+  "count": 2,
+  "hotspots": [
+    {
+      "id": 1790192862772,
+      "index": 0,
+      "label": "1",
+      "description": "IMPULSO = CAMBIO DE MOMENTO LINEAL = FUERZA POR TIEMPO\n\n\\( \\vec{J} = \\Delta\\vec{p} = \\vec{F}t \\)",
+      "category": "General",
+      "position": "-0.2790858618097137 1.1335467069943523 3.7257623418230077",
+      "normal": "-0.9937473388460367 -0.03555238287261851 0.1058407039304774",
+      "color": "#8b5cf6",
+      "kind": "label",
+      "arrowDeg": 0,
+      "connectorStyle": "line",
+      "labelVisible": true,
+      "visible": true,
+      "anchorNodeKey": null,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "dataFields": [],
+      "cameraOrbit": "-5.309214776116987rad 1.4489150963463298rad 12.78992722970853m"
+    },
+    {
+      "id": 1790198277249,
+      "index": 1,
+      "label": "2",
+      "description": "MASA POR CAMBIO DE VELOCIDAD\n\n\\( \\Delta \\vec{p} = m(\\vec{V_f} - \\vec{Vi}\\))",
+      "category": "General",
+      "position": "-1.3052018849234863 -0.005519190673828667 2.219985533596009",
+      "normal": "0 1 2.220446049250313e-16",
+      "color": "#34d399",
+      "kind": "label",
+      "arrowDeg": 0,
+      "connectorStyle": "line",
+      "labelVisible": true,
+      "visible": true,
+      "anchorNodeKey": null,
+      "offset": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "dataFields": [],
+      "cameraOrbit": "-4.698349537918964rad 1.5361815589460457rad 12.78992722970853m"
+    }
+  ]
+}

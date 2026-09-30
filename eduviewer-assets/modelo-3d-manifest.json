@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-09-30T19:59:33.117Z",
+  "source": "EduViewer",
+  "card": {
+    "id": "card-8f0hg8-mue978vi",
+    "title": "Momento lineal e impulso",
+    "badgeLabel": "Modelo 3D",
+    "templateId": "model-single",
+    "grade": "8° grado",
+    "subject": "Física",
+    "slug": "modelo-3d"
+  },
+  "model": {
+    "files": [
+      "modelo-3d.glb"
+    ],
+    "count": 1
+  },
+  "hotspots": {
+    "count": 2,
+    "file": "modelo-3d-hotspots.json",
+    "anchorFallback": "position si anchorNodeKey no existe en Unity"
+  },
+  "unity": {
+    "importer": "glTFast (com.unity.cloud.gltfast) recomendado",
+    "compatibility": "anchorNodeKey preferente, position fallback obligatorio",
+    "scale": 1,
+    "collider": "mesh",
+    "billboard": true,
+    "upAxis": "Y"
+  }
+}
